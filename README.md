@@ -1,6 +1,6 @@
 ## KarateKids Nollningsapp 🥋 
 
-Denna app utvecklades för KarateKids under D-sektionens nollning 2024.
+Denna app utvecklades för KarateKids under D-sektionens nollning 2024. Underhålls ej.
 
 Koden är öppen och fri att återanvända, modifiera eller bygga vidare på – vore jättekul om den kommer till användning i fler D-sektionsnollningar framöver! 🚀
 
