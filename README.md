@@ -1,4 +1,4 @@
-## 🥋 KarateKids Nollningsapp 🎉
+## KarateKids Nollningsapp 🥋 
 
 Denna app utvecklades för KarateKids under D-sektionens nollning 2024.
 
