@@ -6,7 +6,9 @@ Koden är öppen och fri att återanvända, modifiera eller bygga vidare på –
 
 Kodbasen är delvis AI-genererad 🤖, så räkna med att den kan vara lite kladdig på sina håll.
 
-Behöver ni hjälp, mer information eller tillgång till App Store Connect-kontot är det bara att höra av sig till mig här på GitHub eller via e-post på [eberhard.emil@gmail.com](mailto:eberhard.emil@gmail.com)
+Behöver ni hjälp, mer information eller tillgång till App Store Connect-kontot är det bara att höra av sig till mig här på GitHub eller via e-post på [eberhard.emil@gmail.com](mailto:eberhard.emil@gmail.com).
+
+Det finns också en tillhörande Firebase-backend som jag kan ge tillgång till – men det är nog enklare att sätta upp en egen och koppla till appen.
 
 ---
 
